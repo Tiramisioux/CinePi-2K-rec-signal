@@ -24,6 +24,6 @@ before the line exit 0
 
 Exit by pressing ctrl-x and then selecting "yes".
 
-... or add the scripts to the end of the file home/pi/camera/cameracore3.py (remember to add sudo for running metadata.py)
+... or add the scripts to the end of the file home/pi/camera/cameracore3.py (remember to add sudo for running)
 
 Reboot the Pi.
