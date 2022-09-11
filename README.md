@@ -18,7 +18,7 @@ sudo nano /etc/rc.local
 ```
 add the lines
 ```
-python3 /home/pi/cinemate/cinepi-2k-rec-signal.py &
+python3 /home/pi/cinepi-2k-rec-signal/cinepi-2k-rec-signal.py &
 ```
 before the line exit 0
 
